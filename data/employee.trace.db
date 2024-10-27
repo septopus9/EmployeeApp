@@ -1,0 +1,6 @@
+2024-10-27 11:30:52.981181+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM PROJECTS EMPLOYEE_PROJECTS [*]EMPLOYEE"; SQL statement:
+SELECT * FROM PROJECTS EMPLOYEE_PROJECTS EMPLOYEE [42000-224]
+2024-10-27 11:30:57.717562+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EMPLOYEE EMPLOYEE [*]EMPLOYEE"; SQL statement:
+SELECT * FROM EMPLOYEE EMPLOYEE EMPLOYEE [42000-224]
